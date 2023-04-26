@@ -1,0 +1,15 @@
+{
+    "name": "gus/amazon-location-service",
+    "type": "project",
+    "require": {
+        "aws/aws-sdk-php": "^3.268"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gus Vasquez",
+            "email": "gustavoalejandro@hotmail.cl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
